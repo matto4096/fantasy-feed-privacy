@@ -19,8 +19,6 @@ Fantasy Feed fetches live AFL match data from publicly available AFL APIs. No pe
 
 ## Contact
 
-If you have any questions about this privacy policy, please contact:
-
-**mattoldfield94@icloud.com**
+For questions about this privacy policy, please use the support link on the App Store.
 
 *Last updated: June 2026*
